@@ -11,6 +11,18 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
-    "express": "^4.16.3"
-  }
+    "express": "^4.16.3",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.11.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WodenWang820118/Todolist_v2.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/WodenWang820118/Todolist_v2/issues"
+  },
+  "homepage": "https://github.com/WodenWang820118/Todolist_v2#readme"
 }
